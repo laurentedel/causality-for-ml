@@ -1,4 +1,3 @@
-# Test commit in GitHub
 I've been commited \o/
 
 # Causality for Machine Learning
